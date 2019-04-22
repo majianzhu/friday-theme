@@ -66,3 +66,5 @@ defaults:
       layout: defaults/list
 
 
+
+theme: jekyll-theme-cayman
